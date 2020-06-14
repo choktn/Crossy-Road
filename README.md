@@ -12,6 +12,8 @@ Controls
 --------------------
 WASD - up, down, left, right movement of Chicken
 
-Picture  
+Pictures  
 --------
+<a href="https://ibb.co/0BWZ9pf"><img src="https://i.ibb.co/RhMP6GC/image.png" alt="image" border="0" /></a>
+
 <a href="https://ibb.co/hsTB6ZF"><img src="https://i.ibb.co/8MQrCdg/Crossy-Road.png" alt="Crossy-Road" border="0" /></a>
